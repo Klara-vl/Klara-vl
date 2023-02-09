@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Klara
 - 👀 I’m interested in food
 - 🌱 I’m currently learning eating
-- 💞️ I’m looking to collaborate on new food
 - 📫 How to reach me: give me food
 
 <!---
